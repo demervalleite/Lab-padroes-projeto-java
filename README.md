@@ -1,3 +1,9 @@
 # Lab-padroes-projeto-java
+<ul>
+  
 Padrões de Projeto com Java
-usando Facade, Singleton e Strategy 
+<li>usando Facade</li>
+<li>Singleto</li>
+<li>Strategy</li> 
+  
+<ul/>
